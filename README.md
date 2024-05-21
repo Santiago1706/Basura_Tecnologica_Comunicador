@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>COMUNICADOR</title>
     <!-- Agrega el ícono de la pestaña del navegador -->
-    <link rel="icon" type="image/png" href="https://ideogram.ai/assets/image/list/response/pEfXHfeZQzKx_UU6RyDqRg">
+    <link rel="icon" type="image/png" href="[https://ideogram.ai/assets/image/list/response/pEfXHfeZQzKx_UU6RyDqRg](https://ideogram.ai/assets/image/list/response/pEfXHfeZQzKx_UU6RyDqRg)">
 
     <style>
         /* Estilos CSS */
