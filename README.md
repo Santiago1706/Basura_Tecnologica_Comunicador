@@ -141,7 +141,7 @@
     </nav>
 
     <section id="descripcion">
-        <h2>Investigador Principal</h2>
+        <h2>ETIQUETAS QUE SE VAN A UTILIZAR</h2>
          <p> DOCTYPE: Define el tipo de documento y la versión de HTML utilizada.
 <p>html: Representa la raíz de un documento HTML.</p>
 <p>head: Contiene metadatos sobre el documento, como el título y enlaces a scripts y hojas de estilo.</p>
