@@ -166,7 +166,7 @@
         <div style="background-image: url('https://ideogram.ai/api/images/direct/YiCwSq6XQgi2AD7HfcxeYw.png');"></div>
         <div style="background-image: url('https://ideogram.ai/api/images/direct/Lh906sENQ5CiHYceBfl75Q.png');"></div>
         <div style="background-image: url('https://ideogram.ai/api/images/direct/r7ymEAsfRv-SZUXTbmfIcA.png');"></div>
-        <div style="background-image: url('');"></div>
+    
     </section>
 
     <footer>
