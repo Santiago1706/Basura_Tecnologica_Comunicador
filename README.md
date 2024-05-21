@@ -128,7 +128,28 @@
         <h1>COMUNICADOR</h1>
         <h2>Santiago Laiseca</h2>
     </header>
-
+ <p> DOCTYPE: Define el tipo de documento y la versión de HTML utilizada.
+<p>html: Representa la raíz de un documento HTML.</p>
+<p>head: Contiene metadatos sobre el documento, como el título y enlaces a scripts y hojas de estilo.</p>
+<p>meta: Proporciona metadatos como el conjunto de caracteres, la configuración de la vista y la descripción del contenido.</p>
+<p>title: Especifica el título del documento que se muestra en la barra de título del navegador o en la pestaña.</p>
+<p>body: Contiene el contenido principal del documento HTML.</p>
+<p>section: Define secciones en el documento, agrupando contenido temáticamente relacionado.</p>
+<p>h2: Representa un encabezado de segundo nivel.</p>
+<p>p: Define un párrafo de texto.</p>
+<p>sup: Indica texto en superíndice, generalmente utilizado para referencias y notas al pie.</p>
+<p>a: Crea un enlace a otra página web o a una parte específica del mismo documento.</p>
+<p>ul: Define una lista desordenada.</p>
+<p>li: Define un elemento de una lista.</p>
+<p>ol: Define una lista ordenada.</p>
+<p>id: Atributo utilizado para identificar de manera única un elemento en el documento.</p>
+<p>style: Atributo utilizado para aplicar estilos CSS en línea a un elemento.</p>
+<p>lang: Atributo que especifica el idioma del contenido del elemento.</p>
+<p>charset: Atributo meta que define la codificación de caracteres del documento.</p>
+<p>name: Atributo meta que proporciona un nombre para los metadatos.</p>
+<p>content: Atributo meta que proporciona el valor asociado al atributo name.</p>
+<p>viewport: Metaetiqueta que proporciona instrucciones sobre cómo controlar las dimensiones y la escala de la ventana de visualización.</p>
+<p>href: Atributo utilizado en la etiqueta a para especificar la URL de la página a la que enlaza.</p>
     <!-- Menú vertical -->
     <nav class="Menu">
         <ul>
