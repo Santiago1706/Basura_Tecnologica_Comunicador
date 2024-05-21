@@ -128,7 +128,21 @@
         <h1>COMUNICADOR</h1>
         <h2>Santiago Laiseca</h2>
     </header>
- <p> DOCTYPE: Define el tipo de documento y la versión de HTML utilizada.
+
+    <!-- Menú vertical -->
+    <nav class="Menu">
+        <ul>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica/">Página Principal</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Analista/">Analista de Tipos de Basuras Tecnológicas</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Experto/">Experto en Impacto Ambiental</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Investigador/">Investigador Principal</a></li>
+            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Comunicador/">Comunicador</a></li>
+        </ul>  
+    </nav>
+
+    <section id="descripcion">
+        <h2>Investigador Principal</h2>
+         <p> DOCTYPE: Define el tipo de documento y la versión de HTML utilizada.
 <p>html: Representa la raíz de un documento HTML.</p>
 <p>head: Contiene metadatos sobre el documento, como el título y enlaces a scripts y hojas de estilo.</p>
 <p>meta: Proporciona metadatos como el conjunto de caracteres, la configuración de la vista y la descripción del contenido.</p>
@@ -150,37 +164,19 @@
 <p>content: Atributo meta que proporciona el valor asociado al atributo name.</p>
 <p>viewport: Metaetiqueta que proporciona instrucciones sobre cómo controlar las dimensiones y la escala de la ventana de visualización.</p>
 <p>href: Atributo utilizado en la etiqueta a para especificar la URL de la página a la que enlaza.</p>
-    <!-- Menú vertical -->
-    <nav class="Menu">
-        <ul>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica/">Página Principal</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Analista/">Analista de Tipos de Basuras Tecnológicas</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Experto/">Experto en Impacto Ambiental</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Investigador/">Investigador Principal</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Comunicador/">Comunicador</a></li>
-        </ul>  
-    </nav>
-
-    <section id="descripcion">
-        <h2>Investigador Principal</h2>
-        <p>Contenido de la descripción del proyecto...</p> 
     </section>
 
     <section id="funcionamiento">
-        <h2>Analista de tipos de basura tecnológica</h2>
-        <p>Contenido del funcionamiento...</p>
+        <h2>REFERENCIAS</h2>
+        <p><ol>
+        <li id="ref1"> SUBLIME TEXT. <a href="https://www.sublimetext.com/">https://www.sublimetext.com/</a></li>
+        <li id="ref2"> DOMINIO <a href="https://github.com/">https://github.com/</a></li>
+       
+
+    </ol>.</p>
     </section>
 
-    <section id="impacto">
-        <h2>Experto en impacto ambiental</h2>
-        <p>Contenido del impacto ambiental...</p>
-    </section>
-
-    <section id="contacto">
-        <h2>Comunicador</h2>
-        <p>Contenido de contacto...</p>
-    </section>
-
+   
     <!-- Sección para la lista de imágenes -->
     <section class="galery">
         <div style="background-image: url('https://ideogram.ai/api/images/direct/AbNvpTaLTGGjqjSt2seZaw.png');"></div>
